@@ -8,6 +8,7 @@ void setup()
   size(300,300);
   strokeWeight(3);
   background(#000000);
+  stroke(153);
 }
 void draw()
 {
